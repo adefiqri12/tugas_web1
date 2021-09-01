@@ -2,4 +2,4 @@
 Tugas html dan css dasar
 
 Nama: Tjikoa, Ade Fiqri
-NIM: 1915016032
+n/ NIM: 1915016032
