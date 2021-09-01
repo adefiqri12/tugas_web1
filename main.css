@@ -2,8 +2,9 @@ body {
   font-family: "Open Sans";
 }
 .header {
-  background-color: #29D9C7;
+  background-color: #29d9c7;
   height: 90px;
+  margin: 0px;
   color: #fcfcfc;
 }
 .headerLogo {
@@ -29,7 +30,7 @@ body {
   color: rgb(241, 9, 9);
 }
 .footer {
-  background-color: #365B73;
+  background-color: #365b73;
   height: 200px;
   color: #fcfcfc;
   padding: 40px;
